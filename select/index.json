@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Fading Stars",
+  "base_artist": "シーズ",
+  "createdAt": "2026-01-14T05:41:59.829648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fading Stars",
+      "artist": "Pink Gloves",
+      "has_synced": false,
+      "path": "select/01_Fading_Stars_Pink_Gloves.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sailing Beyond the Fading Stars (feat. Rubyeye)",
+      "artist": "JAGAM",
+      "has_synced": false,
+      "path": "select/02_Sailing_Beyond_the_Fading_Stars_(feat._Rubyeye)_JAGAM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fading Stars",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Fading_Stars_シーズ.txt"
+    }
+  ]
+}
